@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LottoBall/static/css/main.5f361e03.chunk.css",
+    "main.js": "/LottoBall/static/js/main.a04c6981.chunk.js",
+    "main.js.map": "/LottoBall/static/js/main.a04c6981.chunk.js.map",
+    "runtime-main.js": "/LottoBall/static/js/runtime-main.0cc0ab58.js",
+    "runtime-main.js.map": "/LottoBall/static/js/runtime-main.0cc0ab58.js.map",
+    "static/js/2.1aeb62eb.chunk.js": "/LottoBall/static/js/2.1aeb62eb.chunk.js",
+    "static/js/2.1aeb62eb.chunk.js.map": "/LottoBall/static/js/2.1aeb62eb.chunk.js.map",
+    "index.html": "/LottoBall/index.html",
+    "precache-manifest.6cd3a10eed1c0571ac3a82b3dd41aedf.js": "/LottoBall/precache-manifest.6cd3a10eed1c0571ac3a82b3dd41aedf.js",
+    "service-worker.js": "/LottoBall/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/LottoBall/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1aeb62eb.chunk.js.LICENSE.txt": "/LottoBall/static/js/2.1aeb62eb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LottoBall/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cc0ab58.js",
+    "static/js/2.1aeb62eb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a04c6981.chunk.js"
+  ]
+}
